@@ -1,1 +1,1 @@
-# Hw1
+# Initial processing of images
