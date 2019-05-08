@@ -1,1 +1,3 @@
-# Initial processing of images
+# Basic Image Manipulation
+
+![Alt text](/Lena.jpg)
